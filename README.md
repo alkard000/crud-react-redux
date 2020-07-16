@@ -1,4 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Intro
+**This proyect was build with React Hooks and Redux. Also was use a fake API for can make a desmostration of functions this Framework. In addition, this CRUD project has two reducers that handle the States of Alert and Products. This project is used for educational purposes thanks to Juan de la Torre<3 **
+
 
 ## Available Scripts
 
